@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chore Rotator</title>
+<link href="./images/favicon.ico" rel="icon" type="image/x-icon">
+<link href="./css/style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+  <center>
+  <h1>Welcome To The "Chore Changer"</h1>
+  <input type="button" id="submit" onclick="compare();" value="Submit">
+  <input type="text" id="who" placeholder=" Enter James or Jared or Joe">
+  <input type="text" id="buddy" placeholder=" Enter Jonathan or Jude">
+  <p class="mods" id="dishes">Dishes & Mopping:</p>
+  <p class="mods" id="trash">Trash & Sweeping:</p>
+  <p class="mods" id="table">Table & Pickup:</p>
+    <input type="button" id="reset" value="Reset Program" onclick="$('#dishes').text('Dishes & Mopping:'); $('#trash').text('Trash & Sweeping:');
+    $('#table').text('Table & Pickup:');    helpSetCookies('dishes', 'unknown', 0);
+   helpSetCookies('dishBuddy', 'unknown', 0);
+   helpSetCookies('trash', 'unknown', 0);
+   helpSetCookies('table', 'unknown', 0);
+   helpSetCookies('tableBuddy', 'unknown', 0);">
+    <input type="button" class="nextPage" onclick="openNewTab('./chore%20list.html')" value="To Chore Chart">
+  <div id="loader" class="notloading"></div>
+</center>
+<script type="text/javascript" src="./js/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="./js/script.js"></script>
+</body>
+</html>
