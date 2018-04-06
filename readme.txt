@@ -9,7 +9,7 @@ Hit Enter ]
 4. After Loading Screen, Click On The Next Page Button On The Bottom Of The Screen
 5. If You Look Carefully, You'll See The Chore Chart Is Filled
 6. Enjoy!
-(PLEASE NOTE, this site uses cookies to operate! If you have any questions about my Privacy Policy and *Terms of Service, please call the following number: (401)-737-4016)
+(PLEASE NOTE, this site uses cookies to operate! If you have any questions about my Privacy Policy and *Terms of Service, please call the following number: 1(800)-LAW-1222
 
 *(1. You must be over the age of 12 to use this program!!! or have a parents consent to use program.
   2. You must not redistribute the program without asking the owner [Joseph Ladino].
